@@ -1,4 +1,4 @@
-export type AddressType = 'canonical' | 'eip155' | 'zksync';
+export type AddressType = 'canonical' | 'eip155' | 'zksync' | 'cycleTestnet';
 
 export const enum DeploymentFormats {
   // The old format that only allows a single address for each network.
@@ -61,7 +61,7 @@ export interface SingletonDeployment {
   // 1.1.1: canonical
   // 1.2.0: canonical
   // 1.3.0: canonical, eip155, zksync
-  // 1.4.1: canonical, zksync
+  // 1.4.1: canonical, zksync, cycleTestnet
   // Ex: deployments: { "canonical": { "codeHash": "0x1234", "address": "0x5678"}}
   deployments: AtLeastOne<Record<AddressType, { address: string; codeHash: string }>>;
 

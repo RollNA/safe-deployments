@@ -6,6 +6,10 @@
     "canonical": {
       "address": "0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99",
       "codeHash": "0x7c6007a5d711cea8dfd5d91f5940ec29c7f200fe511eb1fc1397b367af3c42f9"
+    },
+    "cycleTestnet": {
+      "address": "0xD5dCD81F309B35A226e8A5f0B8AC962B7E3dcf0A",
+      "codeHash": "0x7c6007a5d711cea8dfd5d91f5940ec29c7f200fe511eb1fc1397b367af3c42f9"
     }
   },
   "networkAddresses": {
@@ -39,6 +43,7 @@
     "1111": "canonical",
     "1112": "canonical",
     "1135": "canonical",
+    "1221": "cycleTestnet",
     "1284": "canonical",
     "1285": "canonical",
     "1287": "canonical",
