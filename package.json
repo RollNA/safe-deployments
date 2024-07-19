@@ -1,8 +1,8 @@
 {
-  "name": "@safe-global/safe-deployments",
-  "version": "1.37.2",
+  "name": "@0xsambtc/safe-deployments",
+  "version": "1.37.2-alpha",
   "description": "Collection of Safe singleton deployments",
-  "homepage": "https://github.com/safe-global/safe-deployments/",
+  "homepage": "https://github.com/0xsambtc/safe-deployments/",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/safe-global/safe-deployments.git"
+    "url": "git+https://github.com/0xsambtc/safe-deployments.git"
   },
   "keywords": [
     "Ethereum",
@@ -33,7 +33,7 @@
   ],
   "author": "richard@safe.global",
   "bugs": {
-    "url": "https://github.com/safe-global/safe-deployments/issues"
+    "url": "https://github.com/0xsambtc/safe-deployments/issues"
   },
   "devDependencies": {
     "@eslint/js": "^8.57.0",
