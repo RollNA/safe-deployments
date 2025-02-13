@@ -1,8 +1,8 @@
 {
-  "name": "@0xsambtc/safe-deployments",
+  "name": "@RollNA/safe-deployments",
   "version": "1.37.2-alpha",
   "description": "Collection of Safe singleton deployments",
-  "homepage": "https://github.com/0xsambtc/safe-deployments/",
+  "homepage": "https://github.com/RollNA/safe-deployments/",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xsambtc/safe-deployments.git"
+    "url": "git+https://github.com/RollNA/safe-deployments.git"
   },
   "keywords": [
     "Ethereum",
@@ -33,7 +33,7 @@
   ],
   "author": "richard@safe.global",
   "bugs": {
-    "url": "https://github.com/0xsambtc/safe-deployments/issues"
+    "url": "https://github.com/RollNA/safe-deployments/issues"
   },
   "devDependencies": {
     "@eslint/js": "^8.57.0",
