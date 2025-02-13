@@ -1,5 +1,5 @@
 {
-  "name": "@RollNA/safe-deployments",
+  "name": "@rollna/safe-deployments",
   "version": "1.37.2-alpha",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/RollNA/safe-deployments/",
@@ -48,7 +48,7 @@
     "prettier": "^3.3.2",
     "ts-jest": "^29.1.5",
     "ts-node": "^10.9.2",
-    "typescript": "^5.5.2",
+    "typescript": "^5.7.3",
     "typescript-eslint": "^7.14.1"
   },
   "dependencies": {
